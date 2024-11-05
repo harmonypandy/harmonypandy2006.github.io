@@ -1,0 +1,21 @@
+*{box-sizing: border-box;
+			font-family: bell MT, Helvetica, sans-serif;}
+
+.topnav a{float: left;
+				display: block;
+				color: #BB0505;
+				text-align: center;
+				padding: 18px 20px;
+				text-decoration: none;}
+
+.topnav{overflow: hidden;
+				}
+
+.topnav a:hover{background-color: #7b7d7d;
+				color: black;}
+
+.column{text-align: justify;
+		line-height: 1.5;
+
+}
+
